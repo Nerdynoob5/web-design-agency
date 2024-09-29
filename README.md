@@ -42,10 +42,4 @@ To use this project, follow these steps:
 2. **CSS**: The `styles.css` file contains styles to make the website responsive, ensuring it looks good on various devices (e.g., desktops, tablets, and smartphones).
 3. **JavaScript**: The `script.js` file handles any interactivity such as media controls (for videos), animations, or dynamic content loading.
 
-## Media Credits
 
-The images and videos used in this project are placeholders. Make sure to replace them with your own media files or use properly licensed assets.
-
-## License
-
-This project is for educational and demonstration purposes. Feel free to modify and use it in your own web design projects.
